@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ono-katsuyoshi",
  "yomi": "おののかつよしにこたうるしょ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（書簡）",
+  "era": "江戸後期",
+  "author": "加藤千蔭（1735〜1808）",
+  "desc": "師の教えと自分の歌がなぜ異なるのかという問いに千蔭が答えた書。真淵から万葉集を学べと教えられたことを述べる。末に、小沢蘆庵の弟子小野勝義の問いに答えたものと記す。"
+ },
  "editions": [
   {
    "pid": "993380",
